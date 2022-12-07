@@ -1,4 +1,3 @@
-# Calculadora-B-sica
 # CALCULADORA BASICA
 
 Programa desenvolvido em Python, calculadora de operações básicas.
